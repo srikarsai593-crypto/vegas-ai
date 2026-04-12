@@ -4,15 +4,16 @@ numpy==2.4.4
 scikit-learn==1.8.0
 xgboost>=2.0.0
 python-dotenv==1.2.2
-groq==1.1.2
+
+# FIXED
+groq==0.4.1
+langchain-groq==0.3.8
+
 plotly==6.7.0
 sentence-transformers
 chromadb
 langgraph
 crewai
-langchain-core
-langchain-groq
+langchain-core==0.1.52
 llama-index
 llama-index-llms-groq
-
-
