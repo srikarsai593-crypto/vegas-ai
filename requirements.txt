@@ -1,0 +1,16 @@
+streamlit==1.56.0
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+xgboost>=2.0.0
+python-dotenv==1.2.2
+groq==1.1.2
+plotly==6.7.0
+sentence-transformers
+chromadb
+langgraph
+crewai
+langchain-core
+langchain-groq
+llama-index
+llama-index-llms-groq
