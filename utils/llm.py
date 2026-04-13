@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from groq import Groq
 
 load_dotenv()
-
+GROQ_API_KEY=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
 DEFAULT_GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
 
 
